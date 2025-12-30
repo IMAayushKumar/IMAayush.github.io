@@ -200,7 +200,7 @@ select {
 .slider-nav {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(50%);
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   border: none;
@@ -493,4 +493,8 @@ font-weight: 600;
   margin-left: 40px;
   margin-top: 20px;
 
+}
+.trending{
+  font-size: 30px;
+  font-weight: 600;
 }
